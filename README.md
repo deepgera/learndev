@@ -1,2 +1,0 @@
-# learndev
-learnig development
